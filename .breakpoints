@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".breakpoints": [
+      {
+        "id": "44a0a8f9-678b-4196-85a4-ff352240b51f",
+        "line": 2,
+        "version": 1,
+        "index": 4
+      }
+    ],
+    "views/01": [
+      {
+        "id": "fd16c43b-b035-414b-9abe-647c22c4e22f",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
